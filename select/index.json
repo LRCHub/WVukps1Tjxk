@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "今夜はから騒ぎ",
+  "base_artist": "東京事変",
+  "createdAt": "2025-12-27T09:18:02.332968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今夜はから騒ぎ",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_今夜はから騒ぎ_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今夜はから騒ぎ",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_今夜はから騒ぎ_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜はから騒ぎ",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_今夜はから騒ぎ_東京事変.txt"
+    }
+  ]
+}
